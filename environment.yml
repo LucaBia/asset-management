@@ -1,0 +1,9 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - statsmodels
